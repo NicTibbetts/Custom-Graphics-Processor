@@ -1,0 +1,937 @@
+0000  ; data[0] sin_0 = 0
+0019  ; data[1] sin_1 = 25
+0032  ; data[2] sin_2 = 50
+004A  ; data[3] sin_3 = 74
+0062  ; data[4] sin_4 = 98
+0079  ; data[5] sin_5 = 121
+008E  ; data[6] sin_6 = 142
+00A2  ; data[7] sin_7 = 162
+00B5  ; data[8] sin_8 = 181
+00C6  ; data[9] sin_9 = 198
+00D5  ; data[10] sin_10 = 213
+00E2  ; data[11] sin_11 = 226
+00ED  ; data[12] sin_12 = 237
+00F5  ; data[13] sin_13 = 245
+00FB  ; data[14] sin_14 = 251
+00FF  ; data[15] sin_15 = 255
+0100  ; data[16] sin_16 = 256
+00FF  ; data[17] sin_17 = 255
+00FB  ; data[18] sin_18 = 251
+00F5  ; data[19] sin_19 = 245
+00ED  ; data[20] sin_20 = 237
+00E2  ; data[21] sin_21 = 226
+00D5  ; data[22] sin_22 = 213
+00C6  ; data[23] sin_23 = 198
+00B5  ; data[24] sin_24 = 181
+00A2  ; data[25] sin_25 = 162
+008E  ; data[26] sin_26 = 142
+0079  ; data[27] sin_27 = 121
+0062  ; data[28] sin_28 = 98
+004A  ; data[29] sin_29 = 74
+0032  ; data[30] sin_30 = 50
+0019  ; data[31] sin_31 = 25
+0000  ; data[32] sin_32 = 0
+FFE7  ; data[33] sin_33 = -25
+FFCE  ; data[34] sin_34 = -50
+FFB6  ; data[35] sin_35 = -74
+FF9E  ; data[36] sin_36 = -98
+FF87  ; data[37] sin_37 = -121
+FF72  ; data[38] sin_38 = -142
+FF5E  ; data[39] sin_39 = -162
+FF4B  ; data[40] sin_40 = -181
+FF3A  ; data[41] sin_41 = -198
+FF2B  ; data[42] sin_42 = -213
+FF1E  ; data[43] sin_43 = -226
+FF13  ; data[44] sin_44 = -237
+FF0B  ; data[45] sin_45 = -245
+FF05  ; data[46] sin_46 = -251
+FF01  ; data[47] sin_47 = -255
+FF00  ; data[48] sin_48 = -256
+FF01  ; data[49] sin_49 = -255
+FF05  ; data[50] sin_50 = -251
+FF0B  ; data[51] sin_51 = -245
+FF13  ; data[52] sin_52 = -237
+FF1E  ; data[53] sin_53 = -226
+FF2B  ; data[54] sin_54 = -213
+FF3A  ; data[55] sin_55 = -198
+FF4B  ; data[56] sin_56 = -181
+FF5E  ; data[57] sin_57 = -162
+FF72  ; data[58] sin_58 = -142
+FF87  ; data[59] sin_59 = -121
+FF9E  ; data[60] sin_60 = -98
+FFB6  ; data[61] sin_61 = -74
+FFCE  ; data[62] sin_62 = -50
+FFE7  ; data[63] sin_63 = -25
+0100  ; data[64] cos_0 = 256
+00FF  ; data[65] cos_1 = 255
+00FB  ; data[66] cos_2 = 251
+00F5  ; data[67] cos_3 = 245
+00ED  ; data[68] cos_4 = 237
+00E2  ; data[69] cos_5 = 226
+00D5  ; data[70] cos_6 = 213
+00C6  ; data[71] cos_7 = 198
+00B5  ; data[72] cos_8 = 181
+00A2  ; data[73] cos_9 = 162
+008E  ; data[74] cos_10 = 142
+0079  ; data[75] cos_11 = 121
+0062  ; data[76] cos_12 = 98
+004A  ; data[77] cos_13 = 74
+0032  ; data[78] cos_14 = 50
+0019  ; data[79] cos_15 = 25
+0000  ; data[80] cos_16 = 0
+FFE7  ; data[81] cos_17 = -25
+FFCE  ; data[82] cos_18 = -50
+FFB6  ; data[83] cos_19 = -74
+FF9E  ; data[84] cos_20 = -98
+FF87  ; data[85] cos_21 = -121
+FF72  ; data[86] cos_22 = -142
+FF5E  ; data[87] cos_23 = -162
+FF4B  ; data[88] cos_24 = -181
+FF3A  ; data[89] cos_25 = -198
+FF2B  ; data[90] cos_26 = -213
+FF1E  ; data[91] cos_27 = -226
+FF13  ; data[92] cos_28 = -237
+FF0B  ; data[93] cos_29 = -245
+FF05  ; data[94] cos_30 = -251
+FF01  ; data[95] cos_31 = -255
+FF00  ; data[96] cos_32 = -256
+FF01  ; data[97] cos_33 = -255
+FF05  ; data[98] cos_34 = -251
+FF0B  ; data[99] cos_35 = -245
+FF13  ; data[100] cos_36 = -237
+FF1E  ; data[101] cos_37 = -226
+FF2B  ; data[102] cos_38 = -213
+FF3A  ; data[103] cos_39 = -198
+FF4B  ; data[104] cos_40 = -181
+FF5E  ; data[105] cos_41 = -162
+FF72  ; data[106] cos_42 = -142
+FF87  ; data[107] cos_43 = -121
+FF9E  ; data[108] cos_44 = -98
+FFB6  ; data[109] cos_45 = -74
+FFCE  ; data[110] cos_46 = -50
+FFE7  ; data[111] cos_47 = -25
+0000  ; data[112] cos_48 = 0
+0019  ; data[113] cos_49 = 25
+0032  ; data[114] cos_50 = 50
+004A  ; data[115] cos_51 = 74
+0062  ; data[116] cos_52 = 98
+0079  ; data[117] cos_53 = 121
+008E  ; data[118] cos_54 = 142
+00A2  ; data[119] cos_55 = 162
+00B5  ; data[120] cos_56 = 181
+00C6  ; data[121] cos_57 = 198
+00D5  ; data[122] cos_58 = 213
+00E2  ; data[123] cos_59 = 226
+00ED  ; data[124] cos_60 = 237
+00F5  ; data[125] cos_61 = 245
+00FB  ; data[126] cos_62 = 251
+00FF  ; data[127] cos_63 = 255
+0060  ; data[128] delay_0 = 96
+0080  ; data[129] delay_1 = 128
+00A0  ; data[130] delay_2 = 160
+00C0  ; data[131] delay_3 = 192
+00E0  ; data[132] delay_4 = 224
+0100  ; data[133] delay_5 = 256
+0140  ; data[134] delay_6 = 320
+0180  ; data[135] delay_7 = 384
+0200  ; data[136] delay_8 = 512
+0280  ; data[137] delay_9 = 640
+0300  ; data[138] delay_10 = 768
+0380  ; data[139] delay_11 = 896
+0480  ; data[140] delay_12 = 1152
+0580  ; data[141] delay_13 = 1408
+0680  ; data[142] delay_14 = 1664
+0780  ; data[143] delay_15 = 1920
+0C00  ; data[144] camera_z = 3072
+4000  ; data[145] perspective_0 = 16384
+4000  ; data[146] perspective_1 = 16384
+2000  ; data[147] perspective_2 = 8192
+1555  ; data[148] perspective_3 = 5461
+1000  ; data[149] perspective_4 = 4096
+0CCD  ; data[150] perspective_5 = 3277
+0AAB  ; data[151] perspective_6 = 2731
+0925  ; data[152] perspective_7 = 2341
+0800  ; data[153] perspective_8 = 2048
+071C  ; data[154] perspective_9 = 1820
+0666  ; data[155] perspective_10 = 1638
+05D1  ; data[156] perspective_11 = 1489
+0555  ; data[157] perspective_12 = 1365
+04EC  ; data[158] perspective_13 = 1260
+0492  ; data[159] perspective_14 = 1170
+0444  ; data[160] perspective_15 = 1092
+0400  ; data[161] perspective_16 = 1024
+03C4  ; data[162] perspective_17 = 964
+038E  ; data[163] perspective_18 = 910
+035E  ; data[164] perspective_19 = 862
+0333  ; data[165] perspective_20 = 819
+0000  ; data[166] active_vcount = 0
+0000  ; data[167] active_ecount = 0
+0000  ; data[168] active_vx_base = 0
+0000  ; data[169] active_vy_base = 0
+0000  ; data[170] active_vz_base = 0
+0000  ; data[171] active_edge_base = 0
+0000  ; data[172] sx_0 = 0
+0000  ; data[173] sx_1 = 0
+0000  ; data[174] sx_2 = 0
+0000  ; data[175] sx_3 = 0
+0000  ; data[176] sx_4 = 0
+0000  ; data[177] sx_5 = 0
+0000  ; data[178] sx_6 = 0
+0000  ; data[179] sx_7 = 0
+0000  ; data[180] sx_8 = 0
+0000  ; data[181] sx_9 = 0
+0000  ; data[182] sx_10 = 0
+0000  ; data[183] sx_11 = 0
+0000  ; data[184] sx_12 = 0
+0000  ; data[185] sx_13 = 0
+0000  ; data[186] sx_14 = 0
+0000  ; data[187] sx_15 = 0
+0000  ; data[188] sx_16 = 0
+0000  ; data[189] sx_17 = 0
+0000  ; data[190] sx_18 = 0
+0000  ; data[191] sx_19 = 0
+0000  ; data[192] sx_20 = 0
+0000  ; data[193] sx_21 = 0
+0000  ; data[194] sx_22 = 0
+0000  ; data[195] sx_23 = 0
+0000  ; data[196] sx_24 = 0
+0000  ; data[197] sx_25 = 0
+0000  ; data[198] sx_26 = 0
+0000  ; data[199] sx_27 = 0
+0000  ; data[200] sx_28 = 0
+0000  ; data[201] sx_29 = 0
+0000  ; data[202] sx_30 = 0
+0000  ; data[203] sx_31 = 0
+0000  ; data[204] sx_32 = 0
+0000  ; data[205] sx_33 = 0
+0000  ; data[206] sx_34 = 0
+0000  ; data[207] sx_35 = 0
+0000  ; data[208] sx_36 = 0
+0000  ; data[209] sx_37 = 0
+0000  ; data[210] sx_38 = 0
+0000  ; data[211] sx_39 = 0
+0000  ; data[212] tmp_y1 = 0
+0000  ; data[213] tmp_sx = 0
+0000  ; data[214] tmp_sy = 0
+0000  ; data[215] tmp_dx = 0
+0000  ; data[216] tmp_dy = 0
+0000  ; data[217] tmp_xrot = 0
+0000  ; data[218] tmp_yrot = 0
+0000  ; data[219] tmp_zrot = 0
+0000  ; data[220] tmp_scale = 0
+0008  ; data[221] shape_vcount_0 = 8
+0005  ; data[222] shape_vcount_1 = 5
+0006  ; data[223] shape_vcount_2 = 6
+0028  ; data[224] shape_vcount_3 = 40
+000C  ; data[225] shape_ecount_0 = 12
+0008  ; data[226] shape_ecount_1 = 8
+000C  ; data[227] shape_ecount_2 = 12
+0034  ; data[228] shape_ecount_3 = 52
+0125  ; data[229] shape_vx_base_0 = 293
+0155  ; data[230] shape_vx_base_1 = 341
+0174  ; data[231] shape_vx_base_2 = 372
+019F  ; data[232] shape_vx_base_3 = 415
+012D  ; data[233] shape_vy_base_0 = 301
+015A  ; data[234] shape_vy_base_1 = 346
+017A  ; data[235] shape_vy_base_2 = 378
+01C7  ; data[236] shape_vy_base_3 = 455
+0000  ; data[237] io_hole_pad_0 = 0
+0000  ; data[238] io_hole_pad_1 = 0
+0000  ; data[239] io_hole_pad_2 = 0
+0000  ; data[240] io_hole_pad_3 = 0
+0000  ; data[241] io_hole_pad_4 = 0
+0000  ; data[242] io_hole_pad_5 = 0
+0000  ; data[243] io_hole_pad_6 = 0
+0000  ; data[244] io_hole_pad_7 = 0
+0135  ; data[245] shape_vz_base_0 = 309
+015F  ; data[246] shape_vz_base_1 = 351
+0180  ; data[247] shape_vz_base_2 = 384
+01EF  ; data[248] shape_vz_base_3 = 495
+013D  ; data[249] shape_edge_base_0 = 317
+0164  ; data[250] shape_edge_base_1 = 356
+0186  ; data[251] shape_edge_base_2 = 390
+0217  ; data[252] shape_edge_base_3 = 535
+0000  ; data[253] sy_0 = 0
+0000  ; data[254] sy_1 = 0
+0000  ; data[255] sy_2 = 0
+0000  ; data[256] sy_3 = 0
+0000  ; data[257] sy_4 = 0
+0000  ; data[258] sy_5 = 0
+0000  ; data[259] sy_6 = 0
+0000  ; data[260] sy_7 = 0
+0000  ; data[261] sy_8 = 0
+0000  ; data[262] sy_9 = 0
+0000  ; data[263] sy_10 = 0
+0000  ; data[264] sy_11 = 0
+0000  ; data[265] sy_12 = 0
+0000  ; data[266] sy_13 = 0
+0000  ; data[267] sy_14 = 0
+0000  ; data[268] sy_15 = 0
+0000  ; data[269] sy_16 = 0
+0000  ; data[270] sy_17 = 0
+0000  ; data[271] sy_18 = 0
+0000  ; data[272] sy_19 = 0
+0000  ; data[273] sy_20 = 0
+0000  ; data[274] sy_21 = 0
+0000  ; data[275] sy_22 = 0
+0000  ; data[276] sy_23 = 0
+0000  ; data[277] sy_24 = 0
+0000  ; data[278] sy_25 = 0
+0000  ; data[279] sy_26 = 0
+0000  ; data[280] sy_27 = 0
+0000  ; data[281] sy_28 = 0
+0000  ; data[282] sy_29 = 0
+0000  ; data[283] sy_30 = 0
+0000  ; data[284] sy_31 = 0
+0000  ; data[285] sy_32 = 0
+0000  ; data[286] sy_33 = 0
+0000  ; data[287] sy_34 = 0
+0000  ; data[288] sy_35 = 0
+0000  ; data[289] sy_36 = 0
+0000  ; data[290] sy_37 = 0
+0000  ; data[291] sy_38 = 0
+0000  ; data[292] sy_39 = 0
+FB00  ; data[293] cube_vx_0 = -1280
+0500  ; data[294] cube_vx_1 = 1280
+0500  ; data[295] cube_vx_2 = 1280
+FB00  ; data[296] cube_vx_3 = -1280
+FB00  ; data[297] cube_vx_4 = -1280
+0500  ; data[298] cube_vx_5 = 1280
+0500  ; data[299] cube_vx_6 = 1280
+FB00  ; data[300] cube_vx_7 = -1280
+FB00  ; data[301] cube_vy_0 = -1280
+FB00  ; data[302] cube_vy_1 = -1280
+0500  ; data[303] cube_vy_2 = 1280
+0500  ; data[304] cube_vy_3 = 1280
+FB00  ; data[305] cube_vy_4 = -1280
+FB00  ; data[306] cube_vy_5 = -1280
+0500  ; data[307] cube_vy_6 = 1280
+0500  ; data[308] cube_vy_7 = 1280
+FB00  ; data[309] cube_vz_0 = -1280
+FB00  ; data[310] cube_vz_1 = -1280
+FB00  ; data[311] cube_vz_2 = -1280
+FB00  ; data[312] cube_vz_3 = -1280
+0500  ; data[313] cube_vz_4 = 1280
+0500  ; data[314] cube_vz_5 = 1280
+0500  ; data[315] cube_vz_6 = 1280
+0500  ; data[316] cube_vz_7 = 1280
+0000  ; data[317] cube_edges_0 = 0
+0001  ; data[318] cube_edges_1 = 1
+0001  ; data[319] cube_edges_2 = 1
+0002  ; data[320] cube_edges_3 = 2
+0002  ; data[321] cube_edges_4 = 2
+0003  ; data[322] cube_edges_5 = 3
+0003  ; data[323] cube_edges_6 = 3
+0000  ; data[324] cube_edges_7 = 0
+0004  ; data[325] cube_edges_8 = 4
+0005  ; data[326] cube_edges_9 = 5
+0005  ; data[327] cube_edges_10 = 5
+0006  ; data[328] cube_edges_11 = 6
+0006  ; data[329] cube_edges_12 = 6
+0007  ; data[330] cube_edges_13 = 7
+0007  ; data[331] cube_edges_14 = 7
+0004  ; data[332] cube_edges_15 = 4
+0000  ; data[333] cube_edges_16 = 0
+0004  ; data[334] cube_edges_17 = 4
+0001  ; data[335] cube_edges_18 = 1
+0005  ; data[336] cube_edges_19 = 5
+0002  ; data[337] cube_edges_20 = 2
+0006  ; data[338] cube_edges_21 = 6
+0003  ; data[339] cube_edges_22 = 3
+0007  ; data[340] cube_edges_23 = 7
+FB00  ; data[341] pyramid_vx_0 = -1280
+0500  ; data[342] pyramid_vx_1 = 1280
+0500  ; data[343] pyramid_vx_2 = 1280
+FB00  ; data[344] pyramid_vx_3 = -1280
+0000  ; data[345] pyramid_vx_4 = 0
+FC00  ; data[346] pyramid_vy_0 = -1024
+FC00  ; data[347] pyramid_vy_1 = -1024
+FC00  ; data[348] pyramid_vy_2 = -1024
+FC00  ; data[349] pyramid_vy_3 = -1024
+0700  ; data[350] pyramid_vy_4 = 1792
+FB00  ; data[351] pyramid_vz_0 = -1280
+FB00  ; data[352] pyramid_vz_1 = -1280
+0500  ; data[353] pyramid_vz_2 = 1280
+0500  ; data[354] pyramid_vz_3 = 1280
+0000  ; data[355] pyramid_vz_4 = 0
+0000  ; data[356] pyramid_edges_0 = 0
+0001  ; data[357] pyramid_edges_1 = 1
+0001  ; data[358] pyramid_edges_2 = 1
+0002  ; data[359] pyramid_edges_3 = 2
+0002  ; data[360] pyramid_edges_4 = 2
+0003  ; data[361] pyramid_edges_5 = 3
+0003  ; data[362] pyramid_edges_6 = 3
+0000  ; data[363] pyramid_edges_7 = 0
+0000  ; data[364] pyramid_edges_8 = 0
+0004  ; data[365] pyramid_edges_9 = 4
+0001  ; data[366] pyramid_edges_10 = 1
+0004  ; data[367] pyramid_edges_11 = 4
+0002  ; data[368] pyramid_edges_12 = 2
+0004  ; data[369] pyramid_edges_13 = 4
+0003  ; data[370] pyramid_edges_14 = 3
+0004  ; data[371] pyramid_edges_15 = 4
+0000  ; data[372] octa_vx_0 = 0
+0600  ; data[373] octa_vx_1 = 1536
+0000  ; data[374] octa_vx_2 = 0
+FA00  ; data[375] octa_vx_3 = -1536
+0000  ; data[376] octa_vx_4 = 0
+0000  ; data[377] octa_vx_5 = 0
+0600  ; data[378] octa_vy_0 = 1536
+0000  ; data[379] octa_vy_1 = 0
+0000  ; data[380] octa_vy_2 = 0
+0000  ; data[381] octa_vy_3 = 0
+0000  ; data[382] octa_vy_4 = 0
+FA00  ; data[383] octa_vy_5 = -1536
+0000  ; data[384] octa_vz_0 = 0
+0000  ; data[385] octa_vz_1 = 0
+0600  ; data[386] octa_vz_2 = 1536
+0000  ; data[387] octa_vz_3 = 0
+FA00  ; data[388] octa_vz_4 = -1536
+0000  ; data[389] octa_vz_5 = 0
+0000  ; data[390] octa_edges_0 = 0
+0001  ; data[391] octa_edges_1 = 1
+0000  ; data[392] octa_edges_2 = 0
+0002  ; data[393] octa_edges_3 = 2
+0000  ; data[394] octa_edges_4 = 0
+0003  ; data[395] octa_edges_5 = 3
+0000  ; data[396] octa_edges_6 = 0
+0004  ; data[397] octa_edges_7 = 4
+0005  ; data[398] octa_edges_8 = 5
+0001  ; data[399] octa_edges_9 = 1
+0005  ; data[400] octa_edges_10 = 5
+0002  ; data[401] octa_edges_11 = 2
+0005  ; data[402] octa_edges_12 = 5
+0003  ; data[403] octa_edges_13 = 3
+0005  ; data[404] octa_edges_14 = 5
+0004  ; data[405] octa_edges_15 = 4
+0001  ; data[406] octa_edges_16 = 1
+0002  ; data[407] octa_edges_17 = 2
+0002  ; data[408] octa_edges_18 = 2
+0003  ; data[409] octa_edges_19 = 3
+0003  ; data[410] octa_edges_20 = 3
+0004  ; data[411] octa_edges_21 = 4
+0004  ; data[412] octa_edges_22 = 4
+0001  ; data[413] octa_edges_23 = 1
+0028  ; data[414] vertex_count = 40
+FEC0  ; data[415] vx_0 = -320
+0140  ; data[416] vx_1 = 320
+0140  ; data[417] vx_2 = 320
+FEC0  ; data[418] vx_3 = -320
+0140  ; data[419] vx_4 = 320
+FEC0  ; data[420] vx_5 = -320
+FEC0  ; data[421] vx_6 = -320
+0140  ; data[422] vx_7 = 320
+FEC0  ; data[423] vx_8 = -320
+0140  ; data[424] vx_9 = 320
+0140  ; data[425] vx_10 = 320
+FEC0  ; data[426] vx_11 = -320
+FD80  ; data[427] vx_12 = -640
+FD80  ; data[428] vx_13 = -640
+0280  ; data[429] vx_14 = 640
+0280  ; data[430] vx_15 = 640
+0140  ; data[431] vx_16 = 320
+0140  ; data[432] vx_17 = 320
+0280  ; data[433] vx_18 = 640
+0280  ; data[434] vx_19 = 640
+FEC0  ; data[435] vx_20 = -320
+FEC0  ; data[436] vx_21 = -320
+FD80  ; data[437] vx_22 = -640
+FD80  ; data[438] vx_23 = -640
+FD80  ; data[439] vx_24 = -640
+FD80  ; data[440] vx_25 = -640
+0280  ; data[441] vx_26 = 640
+0280  ; data[442] vx_27 = 640
+0140  ; data[443] vx_28 = 320
+FEC0  ; data[444] vx_29 = -320
+FEC0  ; data[445] vx_30 = -320
+0140  ; data[446] vx_31 = 320
+0000  ; data[447] vx_32 = 0
+0000  ; data[448] vx_33 = 0
+0140  ; data[449] vx_34 = 320
+0140  ; data[450] vx_35 = 320
+FEC0  ; data[451] vx_36 = -320
+FEC0  ; data[452] vx_37 = -320
+0000  ; data[453] vx_38 = 0
+0000  ; data[454] vx_39 = 0
+FF60  ; data[455] vy_0 = -160
+FF60  ; data[456] vy_1 = -160
+FEC0  ; data[457] vy_2 = -320
+FEC0  ; data[458] vy_3 = -320
+00A0  ; data[459] vy_4 = 160
+00A0  ; data[460] vy_5 = 160
+0140  ; data[461] vy_6 = 320
+0140  ; data[462] vy_7 = 320
+0140  ; data[463] vy_8 = 320
+0140  ; data[464] vy_9 = 320
+FEC0  ; data[465] vy_10 = -320
+FEC0  ; data[466] vy_11 = -320
+00A0  ; data[467] vy_12 = 160
+FF60  ; data[468] vy_13 = -160
+FF60  ; data[469] vy_14 = -160
+00A0  ; data[470] vy_15 = 160
+FF60  ; data[471] vy_16 = -160
+00A0  ; data[472] vy_17 = 160
+00A0  ; data[473] vy_18 = 160
+FF60  ; data[474] vy_19 = -160
+00A0  ; data[475] vy_20 = 160
+FF60  ; data[476] vy_21 = -160
+FF60  ; data[477] vy_22 = -160
+00A0  ; data[478] vy_23 = 160
+FF60  ; data[479] vy_24 = -160
+00A0  ; data[480] vy_25 = 160
+00A0  ; data[481] vy_26 = 160
+FF60  ; data[482] vy_27 = -160
+00A0  ; data[483] vy_28 = 160
+00A0  ; data[484] vy_29 = 160
+00A0  ; data[485] vy_30 = 160
+00A0  ; data[486] vy_31 = 160
+00A0  ; data[487] vy_32 = 160
+00A0  ; data[488] vy_33 = 160
+FF60  ; data[489] vy_34 = -160
+FF60  ; data[490] vy_35 = -160
+FF60  ; data[491] vy_36 = -160
+FF60  ; data[492] vy_37 = -160
+FF60  ; data[493] vy_38 = -160
+FF60  ; data[494] vy_39 = -160
+0280  ; data[495] vz_0 = 640
+0280  ; data[496] vz_1 = 640
+0280  ; data[497] vz_2 = 640
+0280  ; data[498] vz_3 = 640
+0280  ; data[499] vz_4 = 640
+0280  ; data[500] vz_5 = 640
+0280  ; data[501] vz_6 = 640
+0280  ; data[502] vz_7 = 640
+0500  ; data[503] vz_8 = 1280
+0500  ; data[504] vz_9 = 1280
+0500  ; data[505] vz_10 = 1280
+0500  ; data[506] vz_11 = 1280
+0280  ; data[507] vz_12 = 640
+0280  ; data[508] vz_13 = 640
+0280  ; data[509] vz_14 = 640
+0280  ; data[510] vz_15 = 640
+FEC0  ; data[511] vz_16 = -320
+FEC0  ; data[512] vz_17 = -320
+FEC0  ; data[513] vz_18 = -320
+FEC0  ; data[514] vz_19 = -320
+FEC0  ; data[515] vz_20 = -320
+FEC0  ; data[516] vz_21 = -320
+FEC0  ; data[517] vz_22 = -320
+FEC0  ; data[518] vz_23 = -320
+00A0  ; data[519] vz_24 = 160
+00A0  ; data[520] vz_25 = 160
+00A0  ; data[521] vz_26 = 160
+00A0  ; data[522] vz_27 = 160
+FB00  ; data[523] vz_28 = -1280
+FB00  ; data[524] vz_29 = -1280
+FCE0  ; data[525] vz_30 = -800
+FCE0  ; data[526] vz_31 = -800
+0000  ; data[527] vz_32 = 0
+FD80  ; data[528] vz_33 = -640
+FB00  ; data[529] vz_34 = -1280
+FCE0  ; data[530] vz_35 = -800
+FB00  ; data[531] vz_36 = -1280
+FCE0  ; data[532] vz_37 = -800
+0000  ; data[533] vz_38 = 0
+FD80  ; data[534] vz_39 = -640
+0000  ; data[535] obj_edge_0_v0 = 0
+0001  ; data[536] obj_edge_0_v1 = 1
+0000  ; data[537] obj_edge_1_v0 = 0
+0003  ; data[538] obj_edge_1_v1 = 3
+0000  ; data[539] obj_edge_2_v0 = 0
+0005  ; data[540] obj_edge_2_v1 = 5
+0000  ; data[541] obj_edge_3_v0 = 0
+000D  ; data[542] obj_edge_3_v1 = 13
+0001  ; data[543] obj_edge_4_v0 = 1
+0002  ; data[544] obj_edge_4_v1 = 2
+0001  ; data[545] obj_edge_5_v0 = 1
+0004  ; data[546] obj_edge_5_v1 = 4
+0001  ; data[547] obj_edge_6_v0 = 1
+000E  ; data[548] obj_edge_6_v1 = 14
+0002  ; data[549] obj_edge_7_v0 = 2
+0003  ; data[550] obj_edge_7_v1 = 3
+0002  ; data[551] obj_edge_8_v0 = 2
+000A  ; data[552] obj_edge_8_v1 = 10
+0003  ; data[553] obj_edge_9_v0 = 3
+000B  ; data[554] obj_edge_9_v1 = 11
+0004  ; data[555] obj_edge_10_v0 = 4
+0005  ; data[556] obj_edge_10_v1 = 5
+0004  ; data[557] obj_edge_11_v0 = 4
+0007  ; data[558] obj_edge_11_v1 = 7
+0004  ; data[559] obj_edge_12_v0 = 4
+000F  ; data[560] obj_edge_12_v1 = 15
+0005  ; data[561] obj_edge_13_v0 = 5
+0006  ; data[562] obj_edge_13_v1 = 6
+0005  ; data[563] obj_edge_14_v0 = 5
+000C  ; data[564] obj_edge_14_v1 = 12
+0006  ; data[565] obj_edge_15_v0 = 6
+0007  ; data[566] obj_edge_15_v1 = 7
+0006  ; data[567] obj_edge_16_v0 = 6
+0008  ; data[568] obj_edge_16_v1 = 8
+0007  ; data[569] obj_edge_17_v0 = 7
+0009  ; data[570] obj_edge_17_v1 = 9
+0008  ; data[571] obj_edge_18_v0 = 8
+0009  ; data[572] obj_edge_18_v1 = 9
+0008  ; data[573] obj_edge_19_v0 = 8
+000B  ; data[574] obj_edge_19_v1 = 11
+0009  ; data[575] obj_edge_20_v0 = 9
+000A  ; data[576] obj_edge_20_v1 = 10
+000A  ; data[577] obj_edge_21_v0 = 10
+000B  ; data[578] obj_edge_21_v1 = 11
+000C  ; data[579] obj_edge_22_v0 = 12
+000D  ; data[580] obj_edge_22_v1 = 13
+000C  ; data[581] obj_edge_23_v0 = 12
+0019  ; data[582] obj_edge_23_v1 = 25
+000D  ; data[583] obj_edge_24_v0 = 13
+0018  ; data[584] obj_edge_24_v1 = 24
+000E  ; data[585] obj_edge_25_v0 = 14
+000F  ; data[586] obj_edge_25_v1 = 15
+000E  ; data[587] obj_edge_26_v0 = 14
+001B  ; data[588] obj_edge_26_v1 = 27
+000F  ; data[589] obj_edge_27_v0 = 15
+001A  ; data[590] obj_edge_27_v1 = 26
+0010  ; data[591] obj_edge_28_v0 = 16
+0011  ; data[592] obj_edge_28_v1 = 17
+0010  ; data[593] obj_edge_29_v0 = 16
+0013  ; data[594] obj_edge_29_v1 = 19
+0010  ; data[595] obj_edge_30_v0 = 16
+0023  ; data[596] obj_edge_30_v1 = 35
+0011  ; data[597] obj_edge_31_v0 = 17
+0012  ; data[598] obj_edge_31_v1 = 18
+0011  ; data[599] obj_edge_32_v0 = 17
+001F  ; data[600] obj_edge_32_v1 = 31
+0012  ; data[601] obj_edge_33_v0 = 18
+0013  ; data[602] obj_edge_33_v1 = 19
+0012  ; data[603] obj_edge_34_v0 = 18
+001A  ; data[604] obj_edge_34_v1 = 26
+0013  ; data[605] obj_edge_35_v0 = 19
+001B  ; data[606] obj_edge_35_v1 = 27
+0014  ; data[607] obj_edge_36_v0 = 20
+0015  ; data[608] obj_edge_36_v1 = 21
+0014  ; data[609] obj_edge_37_v0 = 20
+0017  ; data[610] obj_edge_37_v1 = 23
+0014  ; data[611] obj_edge_38_v0 = 20
+001E  ; data[612] obj_edge_38_v1 = 30
+0015  ; data[613] obj_edge_39_v0 = 21
+0016  ; data[614] obj_edge_39_v1 = 22
+0015  ; data[615] obj_edge_40_v0 = 21
+0025  ; data[616] obj_edge_40_v1 = 37
+0016  ; data[617] obj_edge_41_v0 = 22
+0017  ; data[618] obj_edge_41_v1 = 23
+0016  ; data[619] obj_edge_42_v0 = 22
+0018  ; data[620] obj_edge_42_v1 = 24
+0017  ; data[621] obj_edge_43_v0 = 23
+0019  ; data[622] obj_edge_43_v1 = 25
+001C  ; data[623] obj_edge_44_v0 = 28
+001D  ; data[624] obj_edge_44_v1 = 29
+001C  ; data[625] obj_edge_45_v0 = 28
+001F  ; data[626] obj_edge_45_v1 = 31
+001C  ; data[627] obj_edge_46_v0 = 28
+0022  ; data[628] obj_edge_46_v1 = 34
+001D  ; data[629] obj_edge_47_v0 = 29
+001E  ; data[630] obj_edge_47_v1 = 30
+001D  ; data[631] obj_edge_48_v0 = 29
+0024  ; data[632] obj_edge_48_v1 = 36
+0022  ; data[633] obj_edge_49_v0 = 34
+0023  ; data[634] obj_edge_49_v1 = 35
+0022  ; data[635] obj_edge_50_v0 = 34
+0024  ; data[636] obj_edge_50_v1 = 36
+0024  ; data[637] obj_edge_51_v0 = 36
+0025  ; data[638] obj_edge_51_v1 = 37
+7600  ; instr[0]
+78F0  ; instr[1]
+9100  ; instr[2]
+78F4  ; instr[3]
+A800  ; instr[4]
+78DD  ; instr[5]
+0800  ; instr[6]
+9300  ; instr[7]
+78A6  ; instr[8]
+A840  ; instr[9]
+78E1  ; instr[10]
+0800  ; instr[11]
+9300  ; instr[12]
+78A7  ; instr[13]
+A840  ; instr[14]
+78E5  ; instr[15]
+0800  ; instr[16]
+9300  ; instr[17]
+78A8  ; instr[18]
+A840  ; instr[19]
+78E9  ; instr[20]
+0800  ; instr[21]
+9300  ; instr[22]
+78A9  ; instr[23]
+A840  ; instr[24]
+78F5  ; instr[25]
+0800  ; instr[26]
+9300  ; instr[27]
+78AA  ; instr[28]
+A840  ; instr[29]
+78F9  ; instr[30]
+0800  ; instr[31]
+9300  ; instr[32]
+78AB  ; instr[33]
+A840  ; instr[34]
+F000  ; instr[35]
+7E00  ; instr[36]
+7000  ; instr[37]
+7200  ; instr[38]
+E200  ; instr[39]
+7401  ; instr[40]
+0280  ; instr[41]
+74A0  ; instr[42]
+B281  ; instr[43]
+DFFA  ; instr[44]
+7401  ; instr[45]
+0080  ; instr[46]
+7478  ; instr[47]
+B081  ; instr[48]
+DFF4  ; instr[49]
+78F1  ; instr[50]
+9F00  ; instr[51]
+7800  ; instr[52]
+08C0  ; instr[53]
+9300  ; instr[54]
+7840  ; instr[55]
+08C0  ; instr[56]
+9500  ; instr[57]
+7000  ; instr[58]
+78A8  ; instr[59]
+9900  ; instr[60]
+0800  ; instr[61]
+9B00  ; instr[62]
+78AA  ; instr[63]
+9900  ; instr[64]
+0800  ; instr[65]
+9D00  ; instr[66]
+8940  ; instr[67]
+2880  ; instr[68]
+8B80  ; instr[69]
+2A40  ; instr[70]
+1940  ; instr[71]
+7AD9  ; instr[72]
+AB00  ; instr[73]
+78A8  ; instr[74]
+9900  ; instr[75]
+0800  ; instr[76]
+9B00  ; instr[77]
+2A40  ; instr[78]
+8980  ; instr[79]
+2880  ; instr[80]
+0B00  ; instr[81]
+78DB  ; instr[82]
+A940  ; instr[83]
+78A9  ; instr[84]
+9900  ; instr[85]
+0800  ; instr[86]
+9D00  ; instr[87]
+8980  ; instr[88]
+2880  ; instr[89]
+7ADB  ; instr[90]
+9B40  ; instr[91]
+2A40  ; instr[92]
+1940  ; instr[93]
+7ADA  ; instr[94]
+AB00  ; instr[95]
+78A9  ; instr[96]
+9900  ; instr[97]
+0800  ; instr[98]
+9D00  ; instr[99]
+2C40  ; instr[100]
+7ADB  ; instr[101]
+9B40  ; instr[102]
+2A80  ; instr[103]
+0D40  ; instr[104]
+7ADB  ; instr[105]
+AB80  ; instr[106]
+7A90  ; instr[107]
+9B40  ; instr[108]
+0D40  ; instr[109]
+8980  ; instr[110]
+6808  ; instr[111]
+7A14  ; instr[112]
+C941  ; instr[113]
+8940  ; instr[114]
+7A91  ; instr[115]
+0B00  ; instr[116]
+9940  ; instr[117]
+7ADC  ; instr[118]
+AB00  ; instr[119]
+7AD9  ; instr[120]
+9B40  ; instr[121]
+2B00  ; instr[122]
+6A08  ; instr[123]
+7C50  ; instr[124]
+0B80  ; instr[125]
+7CDA  ; instr[126]
+9D80  ; instr[127]
+2D00  ; instr[128]
+6C08  ; instr[129]
+783C  ; instr[130]
+1980  ; instr[131]
+8D00  ; instr[132]
+78AC  ; instr[133]
+0800  ; instr[134]
+A940  ; instr[135]
+78FD  ; instr[136]
+0800  ; instr[137]
+A980  ; instr[138]
+7801  ; instr[139]
+0100  ; instr[140]
+78A6  ; instr[141]
+9900  ; instr[142]
+B101  ; instr[143]
+DFAA  ; instr[144]
+7000  ; instr[145]
+78AB  ; instr[146]
+9900  ; instr[147]
+8A00  ; instr[148]
+5A01  ; instr[149]
+0940  ; instr[150]
+9300  ; instr[151]
+7A01  ; instr[152]
+0940  ; instr[153]
+9500  ; instr[154]
+78AC  ; instr[155]
+0840  ; instr[156]
+9900  ; instr[157]
+7AFD  ; instr[158]
+0A40  ; instr[159]
+9B40  ; instr[160]
+7CAC  ; instr[161]
+0C80  ; instr[162]
+9D80  ; instr[163]
+72FD  ; instr[164]
+0280  ; instr[165]
+9240  ; instr[166]
+74D4  ; instr[167]
+A440  ; instr[168]
+C986  ; instr[169]
+B987  ; instr[170]
+72FF  ; instr[171]
+5208  ; instr[172]
+74FF  ; instr[173]
+4280  ; instr[174]
+D003  ; instr[175]
+7201  ; instr[176]
+D001  ; instr[177]
+7200  ; instr[178]
+74D5  ; instr[179]
+A440  ; instr[180]
+74D4  ; instr[181]
+9280  ; instr[182]
+CA46  ; instr[183]
+BA47  ; instr[184]
+72FF  ; instr[185]
+5208  ; instr[186]
+74FF  ; instr[187]
+4280  ; instr[188]
+D003  ; instr[189]
+7201  ; instr[190]
+D001  ; instr[191]
+7200  ; instr[192]
+74D6  ; instr[193]
+A440  ; instr[194]
+CD03  ; instr[195]
+8380  ; instr[196]
+1300  ; instr[197]
+D002  ; instr[198]
+8300  ; instr[199]
+1380  ; instr[200]
+74D7  ; instr[201]
+A440  ; instr[202]
+74D4  ; instr[203]
+9280  ; instr[204]
+C342  ; instr[205]
+1340  ; instr[206]
+D003  ; instr[207]
+8540  ; instr[208]
+1440  ; instr[209]
+8280  ; instr[210]
+74D8  ; instr[211]
+A440  ; instr[212]
+74D7  ; instr[213]
+9280  ; instr[214]
+74D8  ; instr[215]
+9480  ; instr[216]
+C299  ; instr[217]
+72D7  ; instr[218]
+9C40  ; instr[219]
+7400  ; instr[220]
+E940  ; instr[221]
+7200  ; instr[222]
+BC52  ; instr[223]
+7201  ; instr[224]
+1C40  ; instr[225]
+72D5  ; instr[226]
+9240  ; instr[227]
+0840  ; instr[228]
+72D8  ; instr[229]
+9240  ; instr[230]
+0440  ; instr[231]
+72D7  ; instr[232]
+9240  ; instr[233]
+C472  ; instr[234]
+72D6  ; instr[235]
+9240  ; instr[236]
+0A40  ; instr[237]
+72D7  ; instr[238]
+9240  ; instr[239]
+1440  ; instr[240]
+DFEB  ; instr[241]
+D019  ; instr[242]
+72D8  ; instr[243]
+9C40  ; instr[244]
+7400  ; instr[245]
+E940  ; instr[246]
+7200  ; instr[247]
+BC52  ; instr[248]
+7201  ; instr[249]
+1C40  ; instr[250]
+72D6  ; instr[251]
+9240  ; instr[252]
+0A40  ; instr[253]
+72D7  ; instr[254]
+9240  ; instr[255]
+0440  ; instr[256]
+72D8  ; instr[257]
+9240  ; instr[258]
+C472  ; instr[259]
+72D5  ; instr[260]
+9240  ; instr[261]
+0840  ; instr[262]
+72D8  ; instr[263]
+9240  ; instr[264]
+1440  ; instr[265]
+DFEB  ; instr[266]
+D000  ; instr[267]
+E940  ; instr[268]
+7A01  ; instr[269]
+0140  ; instr[270]
+7AA7  ; instr[271]
+9B40  ; instr[272]
+B141  ; instr[273]
+DF7F  ; instr[274]
+78F2  ; instr[275]
+9900  ; instr[276]
+7A80  ; instr[277]
+0B00  ; instr[278]
+9940  ; instr[279]
+7AFF  ; instr[280]
+7C01  ; instr[281]
+1B80  ; instr[282]
+7C00  ; instr[283]
+BB81  ; instr[284]
+DFFB  ; instr[285]
+7A01  ; instr[286]
+1940  ; instr[287]
+7A00  ; instr[288]
+B941  ; instr[289]
+DFF5  ; instr[290]
+7801  ; instr[291]
+0700  ; instr[292]
+7840  ; instr[293]
+B701  ; instr[294]
+DED9  ; instr[295]
+7600  ; instr[296]
+DED7  ; instr[297]
